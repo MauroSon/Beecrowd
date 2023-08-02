@@ -1,0 +1,6 @@
+n = int(input())
+hora = int(input())
+sal = float(input())
+sal_hora = (hora*sal)
+print(f'NUMBER = {n}')
+print(f'SALARY = U$ {sal_hora:.2f}')

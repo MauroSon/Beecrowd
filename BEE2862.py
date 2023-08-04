@@ -1,5 +1,6 @@
 n = int(input())
 i = 1
+
 while i <= n:
     nivel = int(input())
     if nivel>8000:
